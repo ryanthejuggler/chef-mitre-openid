@@ -11,6 +11,7 @@ This cookbook is pretty much tested only on Ubuntu; it may work on other platfor
 - `maven`
 - `java`
 - `apache2`
+- `git`
 
 Attributes
 ----------
